@@ -1,4 +1,15 @@
-# Flutter (Dart) Extensions
+---
+title: "Flutter (Dart) Extensions"
+seoTitle: "Flutter (Dart) Extensions"
+seoDescription: "Creating custom dart extensions to existing code"
+datePublished: Mon Jul 25 2022 14:16:52 GMT+0000 (Coordinated Universal Time)
+cuid: cl60u1t5a02me4mnvbfgs6svh
+slug: flutter-dart-extensions
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1658755295908/ZsagU18Zs.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1658758501574/bS__VGyIG.jpg
+tags: dart, flutter, developer, mobile-development, programming-tips
+
+---
 
 Well, programming doesn't have to be boring and Dart goes out of its way to make sure we enjoy the experience. Dart includes multiple cool features most of which we have used or use unknowingly on a daily basis. 
 
